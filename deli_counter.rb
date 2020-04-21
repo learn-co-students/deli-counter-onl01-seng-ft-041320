@@ -1,1 +1,3 @@
-katz_deli = []
+def deli_counter
+  
+end
